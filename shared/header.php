@@ -49,7 +49,7 @@
                                                                     <div class="message-content">
                                                                         <span class="message-date">25 mei 2020</span>
                                                                         <h3>Raies</h3>
-                                                                        <p>Goedemiddag, ik heb zojuist de social media feed klaargezet. Ik hoor graag of dit goed is.</p>
+                                                                        <p>Goedemiddag, ik heb zojuist de social media feed klaargezet.</p>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -62,7 +62,7 @@
                                                 <li class="nav-item"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fa fa-cloud" aria-hidden="true"></i><span class="indicator-nt"></span></a>
                                                     <div role="menu" class="notification-author dropdown-menu animated zoomIn">
                                                         <div class="notification-single-top">
-                                                            <h1>Meldingen</h1>
+                                                            <h2>Meldingen</h2>
                                                         </div>
                                                         <ul class="notification-menu">
                                                             <li>

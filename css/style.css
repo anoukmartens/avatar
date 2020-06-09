@@ -4596,3 +4596,36 @@ h1 {
 .traffic-analysis-area .col-lg-6.col-md-6.col-sm-6.col-xs-12 {
     margin-bottom: 1em;
 }
+
+.sidebar-nav li {
+    padding: 1em 2em !important;
+    font-size: 1.2em;
+}
+
+.submenu-angle li {
+    font-size: 0.9em;
+}
+
+ul.submenu-angle {
+    margin-top: 0.5em;
+}
+
+.message-single-top h2 {
+    text-align: center;
+    margin-top: 0.5em;
+    font-size: 1.5em;
+}
+
+.message-menu li {
+    width: 100%;
+}
+
+.message-content h3 {
+    font-size: 1em;
+}
+
+.notification-single-top h2 {
+    text-align: center;
+    margin-top: 0.5em;
+    font-size: 1.5em;
+}
