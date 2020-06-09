@@ -4578,3 +4578,13 @@ div#sparklinehome canvas {
     display: flex;
     justify-content: space-between;
 }
+
+button.add-date {
+    border-style: none;
+    background-color: #006DF0;
+    padding: 0.5em 1em;
+    margin-top: 1em;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 1.1em;
+}

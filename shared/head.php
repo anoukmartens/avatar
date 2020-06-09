@@ -14,16 +14,14 @@
 
         <!-- CSS -->
         <link rel="stylesheet" href="../css/bootstrap.min.css">
-        <link rel="stylesheet" href="../css/animate.css">
-        <link rel="stylesheet" href="../css/metisMenu/metisMenu.min.css">
-        <link rel="stylesheet" href="../css/metisMenu/metisMenu-vertical.css">
         <link rel="stylesheet" href="../css/calendar/fullcalendar.min.css">
         <link rel="stylesheet" href="../css/calendar/fullcalendar.print.min.css">
         <link rel="stylesheet" href="../css/style.css">
 
         <!-- Scripts -->
-        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/counter.js"></script>
     </head>
 
 <body>

@@ -14,7 +14,7 @@
                             </a>
                     </li>
                     <li>
-                        <a title="Landing Page" href="#" aria-expanded="false"><span class="fa fa-calendar" aria-hidden="true"></span> <span class="mini-click-non">Agenda</span></a>
+                        <a title="Landing Page" href="agenda.php" aria-expanded="false"><span class="fa fa-calendar" aria-hidden="true"></span> <span class="mini-click-non">Agenda</span></a>
                     </li>
                     <li>
                         <a class="Landing Page" href="#" aria-expanded="false"><span class="fa fa-users"></span> <span class="mini-click-non">Leden</span></a>

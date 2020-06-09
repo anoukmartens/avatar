@@ -31,7 +31,7 @@
                             <div class="analysis-progrebar">
                                 <div class="analysis-progrebar-content">
                                     <h5>Uw resterende budget</h5>
-                                    <h2>€<span class="counter">6000</span> </h2>
+                                    <h2>€<span class="count">6000</span> </h2>
                                     <div class="progress m-b-0 ug-3">
                                         <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:60%;"> <span class="sr-only">40%</span> </div>
                                     </div>
