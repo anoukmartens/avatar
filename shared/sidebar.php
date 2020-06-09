@@ -17,7 +17,7 @@
                         <a title="Landing Page" href="agenda.php" aria-expanded="false"><span class="fa fa-calendar" aria-hidden="true"></span> <span class="mini-click-non">Agenda</span></a>
                     </li>
                     <li>
-                        <a class="Landing Page" href="#" aria-expanded="false"><span class="fa fa-users"></span> <span class="mini-click-non">Leden</span></a>
+                        <a class="Landing Page" href="projectleden.php" aria-expanded="false"><span class="fa fa-users"></span> <span class="mini-click-non">Leden</span></a>
                     </li>
                     <li>
                         <a class="has-arrow" href="#" aria-expanded="true"><span class="fa fa-star-o"></span> <span class="mini-click-non">Het project</span></a>
@@ -30,7 +30,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#" aria-expanded="false"><span class="fa fa-envelope-o"></span> <span class="mini-click-non">Mails</span></a>
+                    <a href="mailto:info@anoukmartens.nl"><span class="fa fa-envelope-o"></span> <span class="mini-click-non">Mail ons</span></a>
                     </li>
                     <li id="removable">
                         <a href="#" aria-expanded="false"><span class="fa fa-sign-out"></span> <span class="mini-click-non">Uitloggen</span></a>
