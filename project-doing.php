@@ -1,16 +1,17 @@
 <?php include 'shared/head.php';?>
-<?php include 'shared/sidebar.php';?>
+<?php include 'shared/header.php';?>
 
+    <div class="main-container">
 
+        <?php include 'shared/sidebar.php';?>
 
-    <div class="all-content-wrapper">
-        
-        <?php include 'shared/header.php';?>
+        <div class="content-container">
 
 
         <div class="analytics-sparkle-area home">
             <div class="container-fluid">
                 <div class="row first">
+                    <h1>Wij zijn momenteel met de volgende 5 taken bezig</h1>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30">
                             <div class="analytics-content">
@@ -55,6 +56,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+        </div>
         </div>
 
         <?php include 'shared/footer.php';?>

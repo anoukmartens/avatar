@@ -20,13 +20,13 @@
                         <a class="Landing Page" href="projectleden.php" aria-expanded="false"><span class="fa fa-users"></span> <span class="mini-click-non">Leden</span></a>
                     </li>
                     <li>
-                        <a class="has-arrow" href="#" aria-expanded="true"><span class="fa fa-star-o"></span> <span class="mini-click-non">Het project</span></a>
-                        <ul class="submenu-angle" aria-expanded="true">
-                            <li><a title="All Courses" href="#"><span class="mini-sub-pro">Projectoverzicht</span></a></li>
-                            <li><a title="Add Courses" href="#"><span class="mini-sub-pro">To do list</span></a></li>
-                            <li><a title="Edit Courses" href="#"><span class="mini-sub-pro">Mee bezig</span></a></li>
-                            <li><a title="Courses Profile" href="#"><span class="mini-sub-pro">Testfase</span></a></li>
-                            <li><a title="Product Payment" href="#"><span class="mini-sub-pro">Voltooide taken</span></a></li>
+                        <a class="has-arrow" href="project.php" aria-expanded="true"><span class="fa fa-star-o"></span> <span class="mini-click-non">Het project</span></a>
+                        <ul class="submenu-angle" affria-expanded="true">
+                            <li><a title="All Courses" href="project.php"><span class="mini-sub-pro">Projectoverzicht</span></a></li>
+                            <li><a title="Add Courses" href="project-todo.php"><span class="mini-sub-pro">To do list</span></a></li>
+                            <li><a title="Edit Courses" href="project-doing.php"><span class="mini-sub-pro">Mee bezig</span></a></li>
+                            <li><a title="Courses Profile" href="project-totest.php"><span class="mini-sub-pro">Testfase</span></a></li>
+                            <li><a title="Product Payment" href="project-done.php"><span class="mini-sub-pro">Voltooide taken</span></a></li>
                         </ul>
                     </li>
                     <li>

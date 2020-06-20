@@ -1,11 +1,11 @@
 <?php include 'shared/head.php';?>
-<?php include 'shared/sidebar.php';?>
+<?php include 'shared/header.php';?>
 
+    <div class="main-container">
 
+        <?php include 'shared/sidebar.php';?>
 
-    <div class="all-content-wrapper">
-        
-        <?php include 'shared/header.php';?>
+        <div class="content-container">
 
         <div class="blog-details-area mg-b-15">
             <div class="container-fluid">
@@ -29,6 +29,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+        </div>
         </div>
 
         <?php include 'shared/footer.php';?>

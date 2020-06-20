@@ -1,11 +1,11 @@
 <?php include 'shared/head.php';?>
-<?php include 'shared/sidebar.php';?>
+<?php include 'shared/header.php';?>
 
+    <div class="main-container">
 
+        <?php include 'shared/sidebar.php';?>
 
-    <div class="all-content-wrapper">
-        
-        <?php include 'shared/header.php';?>
+        <div class="content-container">
 
         <div class="blog-details-area mg-b-15">
             <div class="container-fluid">
@@ -17,15 +17,14 @@
                                     <div class="latest-blog-single blog-single-full-view">
                                         <div class="blog-details blog-sig-details">
                                             <div class="details-blog-dt blog-sig-details-dt courses-info mobile-sm-d-n">
-                                                <span><i class="fa fa-heart"></i> <b>Het project:</b> Neerzetten van het bedrijf De Spaarbank online.</span>
-                                                <span><i class="fa fa-money"></i> <b>Budget:</b> €10000</span>
+                                                <span><i class="fa fa-heart"></i> <b>Het project:</b> Het online neerzetten van het bedrijf Auberge du Bonheur</span>
+                                                <span><i class="fa fa-money"></i> <b>Budget:</b> €10.000</span>
                                                 <span><i class="fa fa-calendar"></i> <b>Eindopleverdatum:</b> 1 augustus 2020</span>
                                             </div>
                                             <br>
-                                            <h1>Neerzetten van het bedrijf De Spaarbank online.</h1>
+                                            <h1>Het online neerzetten van het bedrijf Auberge du Bonheur.</h1>
                                             <p class="project-desc"> 
-                                                De Spaarbank is een restaurant in Tilburg dat gevestigd is in een oude bank. Deze stijl is volledig doorgetrokken in het restaurant en geeft een hele speciale sfeer. 
-                                                Door de coronacrisis wil het restaurant zich meer gaan ontwikkelen in de mogelijke online middelen en Avatar gaat hier bij helpen. 
+                                                Auberge du Bonheur is een restaurant met hoge kwaliteiten. Het restaurant gaat voor de full experience en wil dit nu ook graag doortrekken in de online branding. 
                                                 <br>
                                             </p>
                                             <h2 class="project-subtitle"> Wat we gaan doen </h2>
@@ -81,6 +80,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+        </div>
         </div>
 
         <?php include 'shared/footer.php';?>
