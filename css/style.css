@@ -4522,7 +4522,7 @@ div#sparklinehome canvas {
     margin-top: 6em;
 }
 
-.analytics-sparkle-area h1 {
+.extra h1 {
     padding: 15px;
 }
 
@@ -4635,4 +4635,8 @@ ul.submenu-angle {
     text-align: center;
     margin-top: 0.5em;
     font-size: 1.5em;
+}
+
+.account {
+    color: #44beeb !important;
 }

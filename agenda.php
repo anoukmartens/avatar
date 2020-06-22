@@ -14,7 +14,8 @@
                             <div class="calender-inner">
                                 <div id='calendar'></div>
                             </div>
-                            <button class="add-date"> Nieuwe afspraak inplannen </button>
+                            <a href="mailto:info@anoukmartens.nl?subject=Een nieuwe afspraak toevoegen">
+                            <button class="add-date"> Nieuwe afspraak inplannen </button></a>
                         </div>
                     </div>
                 </div>

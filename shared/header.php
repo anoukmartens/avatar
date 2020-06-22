@@ -102,13 +102,11 @@
 															<i class="fa fa-angle-down edu-icon edu-down-arrow"></i>
 														</a>
                                                     <ul role="menu" class="dropdown-header-top author-log dropdown-menu animated zoomIn">
-                                                        <li><a href="#"><span class="edu-icon edu-home-admin author-log-ic"></span>Mijn account</a>
+                                                        <li><a href="account.php"><span class="edu-icon edu-home-admin author-log-ic"></span>Accounts</a>
                                                         </li>
-                                                        <li><a href="#"><span class="edu-icon edu-money author-log-ic"></span>Mijn facturen</a>
+                                                        <li><a href="facturen.php"><span class="edu-icon edu-money author-log-ic"></span>Mijn facturen</a>
                                                         </li>
-                                                        <li><a href="#"><span class="edu-icon edu-settings author-log-ic"></span>Instellingen</a>
-                                                        </li>
-                                                        <li><a href="#"><span class="edu-icon edu-locked author-log-ic"></span>Uitloggen</a>
+                                                        <li><a onclick="logOut()" href="#"><span class="edu-icon edu-locked author-log-ic"></span>Uitloggen</a>
                                                         </li>
                                                     </ul>
                                                 </li>

@@ -118,7 +118,7 @@
                                 <i class="fa fa-users"></i>
                                 <div class="social-edu-ctn">
                                     <h3>Dashboard voor uw klanten</h3>
-                                    <a href="#"><p>Bekijk hier de live demo</p></a>
+                                    <a onclick="viewDemo()" href="#"><p>Bekijk hier de live demo</p></a>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                                 <i class="fa fa-instagram"></i>
                                 <div class="social-edu-ctn">
                                     <h3>Content voor socials</h3>
-                                    <a href="#"><p>Bekijk het inspiratie document</p></a>
+                                    <a onclick="viewDemo()" href="#"><p>Bekijk het inspiratie document</p></a>
                                 </div>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                                 <i class="fa fa-cart-plus"></i>
                                 <div class="social-edu-ctn">
                                     <h3>Webshop installatie</h3>
-                                    <a href="#"><p>Bekijk het prototype</p></a>
+                                    <a onclick="viewDemo()" href="#"><p>Bekijk het prototype</p></a>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +145,7 @@
                                 <i class="fa fa-calendar"></i>
                                 <div class="social-edu-ctn">
                                     <h3>Meeting voorbereiden</h3>
-                                    <a href="#"><p>Stuur een onderwerp in!</p></a>
+                                    <a onclick="viewDemo()" href="#"><p>Stuur een onderwerp in!</p></a>
                                 </div>
                             </div>
                         </div>

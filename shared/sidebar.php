@@ -33,10 +33,16 @@
                     <a href="mailto:info@anoukmartens.nl"><span class="fa fa-envelope-o"></span> <span class="mini-click-non">Mail ons</span></a>
                     </li>
                     <li id="removable">
-                        <a href="#" aria-expanded="false"><span class="fa fa-sign-out"></span> <span class="mini-click-non">Uitloggen</span></a>
+                        <a onclick="logOut()" href="#" aria-expanded="false"><span class="fa fa-sign-out"></span> <span class="mini-click-non">Uitloggen</span></a>
                     </li>
                 </ul>
             </nav>
         </div>
     </nav>
 </div>
+
+<script>
+    function logOut() {
+    alert("Je logt je door middel van deze knop uit");
+    }
+</script>

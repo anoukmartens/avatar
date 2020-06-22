@@ -1,7 +1,7 @@
 <?php include 'shared/head.php';?>
 <?php include 'shared/header.php';?>
 
-    <div class="main-container">
+    <div class="main-container extra">
 
         <?php include 'shared/sidebar.php';?>
 

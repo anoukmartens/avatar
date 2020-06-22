@@ -26,6 +26,10 @@
     <!-- main JS
 		============================================ -->
     <script src="js/main.js"></script>
+
+    <!-- This prototype is based on the Free Kiaalap Dashboard Template. 
+    I used this dashboard as a way to use the full calendar plugin and bootstrap. URL: https://github.com/puikinsh/kiaalap -->
+
 </body>
 
 </html>
